@@ -1,0 +1,42 @@
+# 系統與 IDE 產生的暫存檔
+.DS_Store
+Thumbs.db
+.vs/
+.vscode/
+.idea/
+
+# 建置目錄 (若習慣將編譯產出集中在此)
+build/
+bin/
+out/
+
+# 中間編譯物件與庫檔 (C/C++)
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.pch
+*.gch
+
+# 偵錯與編譯產出檔
+*.dSYM/
+*.suo
+*.user
+*.userosv
+*.sln.docstates
+*.idb
+*.pdb
+*.ilk
+
+# 執行檔 (依照平台與編譯器)
+*.exe
+*.out
+*.app
+
+# 無副檔名的 Linux/macOS 執行檔 (可取消註解並替換為你的執行檔名稱)
+# my_program
+# main
+
